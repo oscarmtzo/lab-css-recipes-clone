@@ -1,6 +1,7 @@
 *{
     font-size: 10px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: sans-serif;
+    font-weight: 100;
 }
 body{
     margin: 0 0 0 0;
@@ -28,10 +29,11 @@ section{
  
 }
 .primary{
-    padding-top: 10vh;
+    padding-top: 5vh;
 }
 p{
-    font-size: large;
+    font-size: 2.5rem;
+    font-weight: 100;
 }
 .hr{
     background-color: gray;
@@ -40,4 +42,15 @@ p{
 }
 .img{
     width: 50vw;
+}
+h2{
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+li{
+    font-size: 2.5rem;
+}
+footer{
+    margin-top: 10vh;
+    padding: 0 10vh;
 }
